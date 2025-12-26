@@ -28,13 +28,10 @@ Both approaches are implemented in a **Pygame-based 2D survival game**.
 
 ## Repository Structure
 
-├── fuzzy_enemy_game.py # Fuzzy logic–controlled enemy AI
-
-├── ppo_game_enemy.py # PPO-controlled enemy AI with fuzzy damage
-
-├── requirements.txt # Python dependencies
-
-└── README.md
+    ├── fuzzy_enemy_game.py # Fuzzy logic–controlled enemy AI
+    ├── ppo_game_enemy.py # PPO-controlled enemy AI with fuzzy damage
+    ├── requirements.txt # Python dependencies
+    └── README.md
 
 ---
 
