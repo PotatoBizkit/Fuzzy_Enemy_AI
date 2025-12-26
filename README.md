@@ -30,6 +30,7 @@ Both approaches are implemented in a **Pygame-based 2D survival game**.
 
     ├── fuzzy_enemy_game.py # Fuzzy logic–controlled enemy AI
     ├── ppo_game_enemy.py # PPO-controlled enemy AI with fuzzy damage
+    ├── enemy_ai_ppo.zip # PPO model
     ├── requirements.txt # Python dependencies
     └── README.md
 
